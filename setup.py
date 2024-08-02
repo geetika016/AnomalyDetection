@@ -10,5 +10,5 @@ setup(name='keras_anomaly_detection',
       url='https://github.com/chen0040/keras-anomaly-detection',
       download_url='https://github.com/chen0040/keras-anomaly-detection/tarball/0.0.1',
       license='MIT',
-      install_requires=['Keras==2.1.2'],
+      install_requires=['Keras==2.13.1'],
       packages=find_packages())
